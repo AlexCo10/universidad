@@ -1,0 +1,6 @@
+dao\dao.class
+modelo\docente.class
+vista\registroDocente$1.class
+modelo\materia.class
+vista\registroDocente.class
+control\controlador.class
